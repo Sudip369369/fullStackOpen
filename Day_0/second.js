@@ -1,0 +1,1 @@
+console.log("successfully wsl2 insall");
